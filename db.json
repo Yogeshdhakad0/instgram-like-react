@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "dp": "https://randomuser.me/api/portraits/men/1.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/21.jpg",
+      "comments": [
+        { "id": 1, "text": "Great post!", "user": "Rohit Malhotra" },
+        { "id": 2, "text": "Loved this!", "user": "Priya Mehta" },
+        { "id": 3, "text": "Nice one!", "user": "Suman Roy" }
+      ],
+      "likes": 20,
+      "lastActive": "45 minutes ago"
+
+    },
+    {
+      "id": 2,
+      "name": "Ishaan Verma",
+      "dp": "https://randomuser.me/api/portraits/men/2.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
+      "comments": [
+        { "id": 1, "text": "Amazing content!", "user": "Anjali Kapoor" },
+        { "id": 2, "text": "Keep it up!", "user": "Vikas Nair" },
+        { "id": 3, "text": "This is awesome!", "user": "Divya Malhotra" },
+        { "id": 4, "text": "Cool!", "user": "Karan Bhatia" },
+        { "id": 5, "text": "Great work!", "user": "Meera Tandon" }
+      ],
+      "likes": 35,
+      "lastActive": "2 hours ago"
+
+    },
+    {
+      "id": 3,
+      "name": "Sanya Kapoor",
+      "dp": "https://randomuser.me/api/portraits/women/3.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
+      "comments": [
+        { "id": 1, "text": "Beautiful picture!", "user": "Mohit Agarwal" },
+        { "id": 2, "text": "Nice capture!", "user": "Rehan Choudhary" },
+        { "id": 3, "text": "Love this post!", "user": "Kabir Malhotra" },
+        { "id": 4, "text": "Superb!", "user": "Naira Khanna" }
+      ],
+      "likes": 25,
+      "lastActive": "10 minutes ago"
+
+    },
+    {
+      "id": 4,
+      "name": "Rohan Mehta",
+      "dp": "https://randomuser.me/api/portraits/men/4.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
+      "comments": [
+        { "id": 1, "text": "Wow!", "user": "Ramesh Choudhary" },
+        { "id": 2, "text": "So cool!", "user": "Anjali Tiwari" },
+        { "id": 3, "text": "Love the vibes!", "user": "Deepak Sinha" }
+      ],
+      "likes": 40,
+      "lastActive": "1 hour ago"
+
+    },
+    {
+      "id": 5,
+      "name": "Anaya Singh",
+      "dp": "https://randomuser.me/api/portraits/women/5.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/women/25.jpg",
+      "comments": [
+        { "id": 1, "text": "Stunning!", "user": "Rajeev Nanda" },
+        { "id": 2, "text": "Lovely post!", "user": "Simran Bhatt" },
+        { "id": 3, "text": "Fantastic!", "user": "Nikhil Sharma" },
+        { "id": 4, "text": "Amazing!", "user": "Kiran Bhatia" }
+      ],
+      "likes": 50,
+      "lastActive": "5 minutes ago"
+
+    },
+    {
+      "id": 6,
+      "name": "Kabir Malhotra",
+      "dp": "https://randomuser.me/api/portraits/men/6.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/26.jpg",
+      "comments": [
+        { "id": 1, "text": "Super cool!", "user": "Nikita Joshi" },
+        { "id": 2, "text": "Really nice!", "user": "Ravi Chauhan" },
+        { "id": 3, "text": "Awesome!", "user": "Sonia Kapoor" }
+      ],
+      "likes": 18,
+      "lastActive": "30 minutes ago"
+
+    },
+    {
+      "id": 7,
+      "name": "Diya Bansal",
+      "dp": "https://randomuser.me/api/portraits/women/7.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/women/27.jpg",
+      "comments": [
+        { "id": 1, "text": "Lovely!", "user": "Tanya Sharma" },
+        { "id": 2, "text": "Fantastic post!", "user": "Arjun Desai" },
+        { "id": 3, "text": "This is so inspiring!", "user": "Megha Reddy" }
+      ],
+      "likes": 30,
+      "lastActive": "3 hours ago"
+
+    },
+    {
+      "id": 8,
+      "name": "Rehan Choudhary",
+      "dp": "https://randomuser.me/api/portraits/men/8.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/28.jpg",
+      "comments": [
+        { "id": 1, "text": "Awesome content!", "user": "Kunal Verma" },
+        { "id": 2, "text": "This made my day!", "user": "Siddharth Rao" },
+        { "id": 3, "text": "Brilliant!", "user": "Pooja Patel" }
+      ],
+      "likes": 45,
+      "lastActive": "20 minutes ago"
+
+    },
+    {
+      "id": 9,
+      "name": "Meera Tandon",
+      "dp": "https://randomuser.me/api/portraits/women/9.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/women/29.jpg",
+      "comments": [
+        { "id": 1, "text": "Wow! So good!", "user": "Ankit Malhotra" },
+        { "id": 2, "text": "Love this post!", "user": "Seema Deshmukh" },
+        { "id": 3, "text": "Amazing stuff!", "user": "Harshita Jain" },
+        { "id": 4, "text": "Beautiful shot!", "user": "Kartik Bansal" }
+      ],
+      "likes": 60,
+      "lastActive": "6 hours ago"
+
+    },
+    {
+      "id": 10,
+      "name": "Yuvraj Deshmukh",
+      "dp": "https://randomuser.me/api/portraits/men/10.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/men/30.jpg",
+      "comments": [
+        { "id": 1, "text": "Nice!", "user": "Vivek Sinha" },
+        { "id": 2, "text": "Great work!", "user": "Sakshi Goyal" },
+        { "id": 3, "text": "Really cool!", "user": "Alok Mishra" }
+      ],
+      "likes": 22,
+      "lastActive": "15 minutes ago"
+
+    },
+    {
+      "id": 11,
+      "name": "Naira Khanna",
+      "dp": "https://randomuser.me/api/portraits/women/11.jpg",
+      "profileImage": "https://randomuser.me/api/portraits/women/31.jpg",
+      "comments": [
+        { "id": 1, "text": "Awesome!", "user": "Rahul Saxena" },
+        { "id": 2, "text": "Really inspiring!", "user": "Neha Kapoor" },
+        { "id": 3, "text": "This is so cool!", "user": "Varun Yadav" },
+        { "id": 4, "text": "Great vibes!", "user": "Preeti Joshi" }
+      ],
+      "likes": 48,
+      "lastActive": "50 minutes ago"
+
+    }
+  ]
+}
